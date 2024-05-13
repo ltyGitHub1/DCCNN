@@ -1,7 +1,7 @@
 # DCCNN
 The program (DCCNN_three_prisms) is designed for calculating the potential field downward continuation. Users can change the experimental data according to their own needs.
 
-‘Kernel_3prisms.mat’ is the matrix K in the paper.
+‘kernel_3prisms.mat’ is the matrix K in the paper.
 
 ‘three_prism_0m.mat’ is the synthetic anomaly data at z = 0 km.
 
